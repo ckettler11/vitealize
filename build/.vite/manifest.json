@@ -1,0 +1,10 @@
+{
+  "theme/index.ts": {
+    "file": "assets/theme-D0GDm8f9.js",
+    "src": "theme/index.ts",
+    "isEntry": true,
+    "css": [
+      "assets/theme-CCiNQygw.css"
+    ]
+  }
+}
